@@ -6,7 +6,6 @@
 #include  "bst.h"
 
 BST<std::string> makeTree(const char* filename) {
-
   BST<std::string>Tree;
   std::string result = "";
   char sym;
